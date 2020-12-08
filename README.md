@@ -86,6 +86,6 @@ Repeat the above breakdown, but this time group schools based on school type (Ch
 
 # As final considerations:
 
-Use the pandas library and Jupyter Notebook.
-You must submit a link to your Jupyter Notebook.
-You must include a written description of at least two observable trends based on the data.
+	Use the pandas library and Jupyter Notebook.
+	You must submit a link to your Jupyter Notebook.
+	You must include a written description of at least two observable trends based on the data.
